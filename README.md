@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piz00kie-m0nster
-- 👀 I’m interested in programming, physics, math, and more!
+- 👀 I’m interested in programming, ciruits, physics, math, and more!
 - 🌱 I’m currently learning ROS
 - 💞️ I’m looking to collaborate on (nothing at the moment)
 - ⚡ Fun fact: I'm ECE at UT Austin!
