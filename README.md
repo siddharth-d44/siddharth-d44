@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @piz00kie-m0nster
-- 👀 I’m interested in programming, ciruits, physics, math, and more!
-- 🌱 I’m currently learning ROS
+- 👋 Hi, I’m Siddharth!
+- 👀 I’m interested in embedded systems, computer architecture, circuits, and French
+- 🌱 I’m currently learning C, C++, and Arduino
 - 💞️ I’m looking to collaborate on (nothing at the moment)
 - ⚡ Fun fact: I'm ECE at UT Austin!
 
