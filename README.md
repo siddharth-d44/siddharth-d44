@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siddharth!
 - 👀 I’m interested in embedded systems, computer architecture, circuits, and French
 - 🌱 I’m currently learning C, C++, and Arduino
-- 💞️ I’m looking to collaborate on (nothing at the moment)
+- 💞️ I like to tinker around with microcontrollers, code, and breadboards to develop cool things
 - ⚡ Fun fact: I'm ECE at UT Austin!
 
 <!---
