@@ -1,10 +1,10 @@
 👋 Hi, I’m Siddharth!
 
-👀 I’m interested in embedded systems, computer architecture, circuits, and French
+👀 I’m interested in embedded systems, IoT devices, electronics, and PCB design
 
 🌱 I’m currently learning C, C++, and Arduino
 
-💞️ I like to tinker around with microcontrollers, code, and breadboards to develop cool things
+💞️ I like to tinker around with microcontrollers, PCBs, and programming
 
 ⚡ Fun fact: I'm studying electrical and computer engineering at UT Austin!
 
